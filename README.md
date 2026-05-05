@@ -20,4 +20,3 @@
 
 # Notes
 - This server only listens and sends OK responses. It does not save game data nor send game data. It is not possible to save data with this server as it is.
-- Sometimes the server may disconnect. For the majority of the time, it should keep you connected in the game.
