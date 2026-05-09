@@ -22,3 +22,4 @@
 
 # Notes
 - This server only listens and sends OK responses. It does not save game data nor send game data. It is not possible to save data with this server as it is.
+- Additionally, this fork provides an entirely self-contained executable. It can be ran on any x86-64-based Linux machine with or without .NET 8 installed.
