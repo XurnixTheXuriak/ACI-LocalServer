@@ -119,7 +119,7 @@ Follow the instructions in the installer.
 
 ## Step 3 - Install Visual Studio (Optional)
 You can download the installer [here](https://visualstudio.microsoft.com/downloads/)
-Please ensure to select "Develop Applications with .NET" in the installer in Components
+Please ensure to select ".NET desktop development" & “ASP.NET and web development” in the installer in Components
 
 ## Step 4a - Building & Running (Visual Studio)
 Navigate to the directory which you had cloned ACI-LocalServer and click "LocalServer.sln"
